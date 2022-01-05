@@ -7,10 +7,10 @@ A Dating App that allow you to match with people base on your interests and beli
 # Application UI
 
  <p align="center">  
-  <img src="https://github.com/ethannguyen-uts/DatingApp/blob/main/Images/Landing.png" width=200 alt="Landing">
-    <img src="https://github.com/ethannguyen-uts/DatingApp/blob/main/Images/Match.png" width=200 alt="Match">
-  <img src="https://github.com/ethannguyen-uts/DatingApp/blob/main/Images/Test.png" width=200 alt="Test">
-    <img src="https://github.com/ethannguyen-uts/DatingApp/blob/main/Images/Social.png" width=200 alt="Social">
+  <img src="https://github.com/ethannguyen-uts/DatingApp/blob/main/images/Landing.png" width=200 alt="Landing">
+    <img src="https://github.com/ethannguyen-uts/DatingApp/blob/main/images/Match.png" width=200 alt="Match">
+  <img src="https://github.com/ethannguyen-uts/DatingApp/blob/main/images/Test.png" width=200 alt="Test">
+    <img src="https://github.com/ethannguyen-uts/DatingApp/blob/main/images/Social.png" width=200 alt="Social">
  </p>
 
 ## Pre-requirement
