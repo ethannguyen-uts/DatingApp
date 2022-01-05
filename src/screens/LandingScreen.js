@@ -64,7 +64,7 @@ const LandingScreen = ({navigation}) => {
             <Image
               source={{
                 uri:
-                  'https://media3.giphy.com/media/lnVCARR1zPDipkAYHZ/giphy.gif?cid=ecf05e47dmrt07yehrhg83xv79uyexe4wygztusqbt017b0c&rid=giphy.gif',
+                  'https://media.giphy.com/media/W8g9rnXjuIhrID7bST/giphy.gif',
               }}
               style={styles.functionImage}></Image>
             <Text style={styles.functionTextStyle}>Audio Call</Text>
