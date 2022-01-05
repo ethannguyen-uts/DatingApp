@@ -2,7 +2,7 @@
 
 # Description
 
-A Dating App that allow you to match with people base on your interests and beliefs. You can also share your daily life and explore people all the new feeds
+A Dating App that allows you to match with people based on your interests and beliefs. You can also share your daily life and explore people all the news feeds
 
 # Application UI
 
